@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "updated_at": "2026-05-13T10:00:00Z",
+  "version": {
+    "latest": "v1.0.0",
+    "minimum_supported": "v1.0.0",
+    "download_url": "",
+    "release_notes": ""
+  },
+  "kill_switch": {
+    "enabled": false,
+    "blocked_versions": [],
+    "blocked_below": "",
+    "reason": ""
+  },
+  "announcements": []
+}
