@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-13T10:00:00Z",
+  "updated_at": "2026-05-13T17:15:35Z",
   "version": {
     "latest": "v1.0.0",
     "minimum_supported": "v1.0.0",
@@ -13,5 +13,18 @@
     "blocked_below": "",
     "reason": ""
   },
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20260513-1714",
+      "level": "info",
+      "title": "通知",
+      "content": "测试",
+      "target_versions": [],
+      "target_below": "",
+      "show_once": true,
+      "action_button": null,
+      "starts_at": "",
+      "expires_at": "2026-05-14T01:59:00Z"
+    }
+  ]
 }
