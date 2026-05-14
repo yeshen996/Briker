@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-14T09:26:11Z",
+  "updated_at": "2026-05-14T09:28:56Z",
   "version": {
     "latest": "v1.0.0",
     "minimum_supported": "v1.0.0",
@@ -14,5 +14,18 @@
     "reason": "",
     "action": "exit"
   },
-  "announcements": []
+  "announcements": [
+    {
+      "id": "ann-20260514-0922",
+      "level": "warning",
+      "title": "欢迎使用",
+      "content": "同事你好，欢迎使用批量下载工具搬砖侠v1.0.0，使用过程中有任何问题或建议请直接联系我。祝工作顺利~",
+      "target_versions": [],
+      "target_below": "",
+      "show_once": true,
+      "action_button": null,
+      "starts_at": "",
+      "expires_at": ""
+    }
+  ]
 }
