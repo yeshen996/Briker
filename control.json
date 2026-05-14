@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-13T17:21:06Z",
+  "updated_at": "2026-05-14T01:32:03Z",
   "version": {
     "latest": "v1.0.0",
     "minimum_supported": "v1.0.0",
@@ -37,6 +37,18 @@
       "action_button": null,
       "starts_at": "",
       "expires_at": "2026-05-14T02:59:00Z"
+    },
+    {
+      "id": "ann-20260514-0130",
+      "level": "urgent",
+      "title": "发布前测试",
+      "content": "发布前测试",
+      "target_versions": [],
+      "target_below": "",
+      "show_once": true,
+      "action_button": null,
+      "starts_at": "",
+      "expires_at": "2026-05-14T12:59:00Z"
     }
   ]
 }
