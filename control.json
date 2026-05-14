@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-14T01:32:03Z",
+  "updated_at": "2026-05-14T02:02:59Z",
   "version": {
     "latest": "v1.0.0",
     "minimum_supported": "v1.0.0",
@@ -13,42 +13,5 @@
     "blocked_below": "",
     "reason": ""
   },
-  "announcements": [
-    {
-      "id": "ann-20260513-1714",
-      "level": "info",
-      "title": "通知",
-      "content": "测试",
-      "target_versions": [],
-      "target_below": "",
-      "show_once": true,
-      "action_button": null,
-      "starts_at": "",
-      "expires_at": "2026-05-14T01:59:00Z"
-    },
-    {
-      "id": "ann-20260513-1720",
-      "level": "warning",
-      "title": "维护通知",
-      "content": "测试1",
-      "target_versions": [],
-      "target_below": "",
-      "show_once": true,
-      "action_button": null,
-      "starts_at": "",
-      "expires_at": "2026-05-14T02:59:00Z"
-    },
-    {
-      "id": "ann-20260514-0130",
-      "level": "urgent",
-      "title": "发布前测试",
-      "content": "发布前测试",
-      "target_versions": [],
-      "target_below": "",
-      "show_once": true,
-      "action_button": null,
-      "starts_at": "",
-      "expires_at": "2026-05-14T12:59:00Z"
-    }
-  ]
+  "announcements": []
 }
