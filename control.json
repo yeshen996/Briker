@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-14T09:22:02Z",
+  "updated_at": "2026-05-14T09:22:34Z",
   "version": {
     "latest": "v1.0.0",
     "minimum_supported": "v1.0.0",
@@ -38,6 +38,18 @@
       "action_button": null,
       "starts_at": "",
       "expires_at": "2026-05-14T16:59:00Z"
+    },
+    {
+      "id": "ann-20260514-0919",
+      "level": "warning",
+      "title": "测试1",
+      "content": "测试1",
+      "target_versions": [],
+      "target_below": "",
+      "show_once": true,
+      "action_button": null,
+      "starts_at": "",
+      "expires_at": ""
     }
   ]
 }
