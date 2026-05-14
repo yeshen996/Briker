@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-14T08:51:53Z",
+  "updated_at": "2026-05-14T08:52:49Z",
   "version": {
     "latest": "v1.0.0",
     "minimum_supported": "v1.0.0",
@@ -16,9 +16,9 @@
   "announcements": [
     {
       "id": "ann-20260514-0851",
-      "level": "info",
-      "title": "测试1",
-      "content": "测试",
+      "level": "warning",
+      "title": "测试2",
+      "content": "2",
       "target_versions": [],
       "target_below": "",
       "show_once": true,
