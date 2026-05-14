@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-05-14T08:53:00Z",
+  "updated_at": "2026-05-14T08:57:28Z",
   "version": {
     "latest": "v1.0.0",
     "minimum_supported": "v1.0.0",
@@ -8,10 +8,13 @@
     "release_notes": ""
   },
   "kill_switch": {
-    "enabled": false,
-    "blocked_versions": [],
+    "enabled": true,
+    "blocked_versions": [
+      "v1.0.0"
+    ],
     "blocked_below": "",
-    "reason": ""
+    "reason": "",
+    "action": "exit"
   },
   "announcements": [
     {
